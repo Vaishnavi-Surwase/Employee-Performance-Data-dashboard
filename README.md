@@ -95,22 +95,6 @@ Employee-Performance-Dashboard/
 📷 Dashboard Snapshot
 Interactive Power BI dashboard showcasing employee performance metrics, departmental analytics, task management insights, and achievement tracking.
 
-🔮 Future Enhancements
-Employee attrition analysis
-Attendance tracking
-Training effectiveness metrics
-Employee satisfaction analysis
-Predictive performance analytics
-Automated KPI alerts
-🤝 Contributing
-Contributions are welcome.
-
-Fork the repository
-Create a feature branch
-Commit your changes
-Submit a Pull Request
-⭐ Support
-If you found this project useful, please consider giving it a ⭐ on GitHub.
 
 👨‍💻 Author
 Vaishnavi Surwase
